@@ -1,0 +1,5 @@
+Designed hardware and software for remote monitoring of knee rehabilatiting patients using an Arduino microcontroller and python programming language. 
+                                        The Arduino run on a C++ program which aided the measuring of knee flexion angles. 
+                                        While two python programs, one connected to Arduino via Bluetooth Low Energy(BLE),stored data on a time series database (Influxdb) 
+                                        and the second python program, which run on dash, displayed the stored data in Influxdb on a real time dashboard. 
+                                        This work was in collaboration with an orthopedic surgeon in Dedan Kimathi University (DeKUT). 
